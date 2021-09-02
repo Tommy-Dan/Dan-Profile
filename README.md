@@ -40,16 +40,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Tommy-dan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tommy Tucker's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tommy-dan& theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Tommy-Dan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tommy Tucker's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tommy-Dan& theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Tommy-dan/github-readme-stats"><img alt="Tommy Tucker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tommy-dan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Tommy-dan/github-readme-stats"><img alt="Tommy Tucker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-dan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Tommy-Dan/github-readme-stats"><img alt="Tommy Tucker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tommy-Dan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Tommy-Dan/github-readme-stats"><img alt="Tommy Tucker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-Dan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Tommy-dan/github-readme-activity-graph"><img alt="Tommy Tucker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tommy-dan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Tommy-Dan/github-readme-activity-graph"><img alt="Tommy Tucker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tommy-Dan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -66,7 +66,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/Tommy D. Tucker/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ttuckerwra@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://www.gmail.com/ttuckerwra@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://www.instagram.com/tmmy-dan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
@@ -74,6 +74,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Tommy-dan">
+    <img src="https://komarev.com/ghpvc/?username=Tommy-Dan">
 </a>
-<a href="https://github.com/Tommy-dan?tab=followers"><img src="https://img.shields.io/github/followers/Tommy-dan ?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Tommy-Dan?tab=followers"><img src="https://img.shields.io/github/followers/Tommy-Dan ?label=Followers&style=social" alt="GitHub Badge"></a>
